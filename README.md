@@ -1,7 +1,6 @@
+at the end of this project, i would've created my first webpage? i guess
 
-hello! ceating a basic (html) recipe website here.
-<em>im somewhat excited.</em>
-<p>at the end of this project, i would've created my first webpage? i guess.
-i would be using a html boilerplate. and some links and images.</p>
+edit: webpage already created! this is the link
+https://bleach-son-of-odin.github.io/odin-recipes/
 
 <!-- how do i change this particular font? -->
